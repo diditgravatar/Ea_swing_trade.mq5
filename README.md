@@ -1,0 +1,1 @@
+# Ea_swing_trade.mq5
